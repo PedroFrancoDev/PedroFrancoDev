@@ -1,9 +1,9 @@
 ### Olá amigo!👋
+- Seje bem-vindo!🚀
 ### Eu sou o Pedro Franco estudande de TI, membro da CDA | Community Developer Angola.
 
 - 👨‍💻 Hoje trabalho com front-end "React JS💜"...
 - 📚 Estou estudando arquitetura flux com Redux ...
-- 🚀 Seje bem-vindo!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-franco-58a460217/">
