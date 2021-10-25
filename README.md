@@ -1,5 +1,5 @@
 ### Olá amigo!👋
-### Eu sou o Pedro Franco estudande de TI, membro da CDA | Community developer Angola.
+### Eu sou o Pedro Franco estudande de TI, membro da CDA | Community Developer Angola.
 
 - 👨‍💻 Hoje trabalho com front-end "React JS💜"...
 - 📚 Estou estudando arquitetura flux com Redux ...
