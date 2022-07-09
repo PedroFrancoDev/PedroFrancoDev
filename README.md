@@ -1,8 +1,8 @@
 ### Olá amigo!👋
 - Seje bem-vindo!🚀
-### Eu sou o Pedro Franco estudande de TI, membro da CDA | Community Developer Angola.
+### Chamo-me Pedro Franco, estudande de engenharia de Software, membro da Community Developer Angola (CDA).
 
-- 👨‍💻 Hoje trabalho com Front-end.
+- 👨‍💻 Sou desenvolvedor web.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-franco-58a460217/">
