@@ -30,3 +30,16 @@
   <a href="pedro-franco-58a460217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/Pedro Franco#1758" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
+
+<div align="center">
+<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<br>
+<div align="center">
+<p>Total profile visits:</p>
+<p>
+    <img src="https://profile-counter.glitch.me/IsaacIsvaldo/count.svg"/>
+</p>
+</div>
