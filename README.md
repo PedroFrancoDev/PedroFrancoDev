@@ -1,10 +1,9 @@
 ### Olá amigo!👋
 - Seje bem-vindo!🚀
-### Chamo-me Pedro Franco, estudande de engenharia de Software, membro da Community Developer Angola (CDA).
 
-- 💻 Sou desenvolvedor web
-- 🎯 Actualmente trabalho como front-end developer 
-- 📚 Sou estudante de engenharia de Software
+### - 💻 Sou desenvolvedor web e Mobile
+### - 🎯 Actualmente trabalho com desenvolvimento Mobile.
+### - 📚 Sou estudante de engenharia de Software
 
 
 <div align="center">
