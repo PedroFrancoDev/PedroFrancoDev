@@ -1,9 +1,7 @@
 ### Olá amigo!👋
 - Seje bem-vindo!🚀
 
-### - 💻 Sou desenvolvedor web e Mobile
-### - 🎯 Actualmente trabalho com desenvolvimento Mobile.
-### - 📚 Sou estudante de engenharia de Software
+ 💻 Sou desenvolvedor web e Mobile | 🎯 Actualmente trabalho com desenvolvimento Mobile | 📚 Sou estudante de engenharia de Software
 
 
 <div align="center">
