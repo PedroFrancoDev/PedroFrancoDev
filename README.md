@@ -1,8 +1,7 @@
 ### Olá amigo!👋
 - Seje bem-vindo!🚀
 
- 💻 Sou desenvolvedor web e Mobile | 🎯 Actualmente trabalho com desenvolvimento Mobile | 📚 Sou estudante de engenharia de Software
-
+ 💻 Sou desenvolvedor web e Mobile
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-franco-58a460217/">
