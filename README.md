@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=200&section=header&text=Pedro%20Franco&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Flutter%20Mobile%20Developer&descAlignY=60&descSize=18&descColor=ffffffcc" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=180&section=header&text=Mobile+Developer&fontSize=55&fontColor=ffffff&fontAlignY=45" width="100%"/>
+</div>
+
+<div align="center">
+  <sub><b>Flutter · Kotlin · Swift &nbsp;|&nbsp; Android &amp; iOS</b></sub>
 </div>
 
 <br/>
