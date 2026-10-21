@@ -28,7 +28,36 @@
 
 ---
 
-Mobile Developer com mais de 4 anos de experiência no desenvolvimento de aplicações Android e iOS, utilizando Flutter, Kotlin e Swift. Experiência com Clean Architecture, APIs, Firebase e desenvolvimento de produtos digitais. Atualmente na KudiTech, atuo no ciclo completo de desenvolvimento, desde a arquitetura e implementação até à publicação e manutenção em produção. Já fui responsável pelo desenvolvimento mobile de aplicações publicadas na Google Play Store e App Store, incluindo uma aplicação oficial para o mercado português.
+Quem sou:
+
+Sou engenheiro de software e estudante do 2.º ano de Licenciatura em Ciências da Computação no IMETRO. Comecei a trabalhar na área da tecnologia ainda na 11.ª classe do ensino médio e hoje somam-se 4 anos de experiência profissional.
+
+
+Sou uma pessoa muito competitiva: gosto de desafios difíceis, de prazos curtos e de dar o meu melhor quando há algo em jogo. Foi essa mentalidade que me levou ao 3.º lugar no Hackathon ANGOTIC 2026 e ao 3.º lugar no SADC Cyber Drill 2026.
+
+
+O que faço:
+
+Desenho e construo aplicações móveis e web modernas, escaláveis e seguras, para Android e iOS, com Flutter, Kotlin e Swift, e com React.js e Firebase no web e no backend.
+
+
+Como faço:
+
+Trabalho com arquitetura MVVM e Clean Architecture, código limpo e soluções pensadas para evoluir. Aplico também práticas de testes de software e controlo de qualidade, o que me dá uma visão mais ampla sobre a estabilidade e a fiabilidade do que entrego. Nos hackathons aprendi a priorizar, a decidir rápido e a entregar sob pressão, e levo isso para o dia a dia nos projetos.
+
+
+Resultados:
+
+• Contribuí para projetos que somam mais de 60 mil utilizadores
+• 3.º lugar no Hackathon ANGOTIC 2026
+• 3. - 3.º lugar no SADC Cyber Drill 2026
+• 4 anos de experiência profissional com Flutter, React.js e Firebase
+
+
+Se a tua empresa procura alguém que não inventa desculpas, mas apresenta soluções e resultados, vamos conversar.
+
+
+**LinkedIn:** [linkedin.com/in/pedro-franco-pedro-58a460217](https://www.linkedin.com/in/pedro-franco-pedro-58a460217/)
 
 ---
 
